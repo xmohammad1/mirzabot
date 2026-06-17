@@ -1242,15 +1242,7 @@ f,n.n2',
                         'err_notfound_user_6' => '❌ کاربری در لیست وجود ندارد',
                         'btn_27' => 'لیست افراد👇',
                         'msg_panel_admin_bot_report' => '💎 | Version Bot: %s
-📌 | Version Mini App: 0.1.1
-
-<blockquote>🔹 | این ربات کاملاً رایگان است و توسط تیم میرزا توسعه داده شده است</blockquote>
-
-<blockquote>🔹 | هرگونه فروش یا دریافت وجه بابت این ربات تخلف محسوب می‌شود.</blockquote>
-
-<blockquote>🔹 | در صورت مشاهدهٔ فروش یا دریافت وجه، لطفاً وجه خود را پیگیری کرده و بازپس‌گیری نمایید.</blockquote>
-
-<blockquote>🐞 | اگر در عملکرد ربات با باگ یا مشکلی مواجه شدید، از طریق دکمهٔ **📬 گزارش ربات** در پنل ادمین با ما در ارتباط باشید.</blockquote>',
+📌 | Version Mini App: 0.1.1',
                         'ok_payment_gateway_name' => '
 📌 نام درگاه : <code>%s</code>
  - تعداد پرداخت موفق : <code>%s</code>
